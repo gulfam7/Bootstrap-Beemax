@@ -1,0 +1,49 @@
+@media only screen and (max-width: 1199px) and (min-width:992px)
+{
+    
+    
+}
+
+@media only screen and (max-width: 991px) and (min-width:768px)
+{
+    
+   .carousel-caption {
+    position: absolute;
+    top: 8%;
+}
+
+
+.carousel-cap {
+    font-family: LatoRegular;
+    font-size: 24px;
+}
+
+.carousel-head {
+    font-family: Lato-Black;
+    font-size: 52px;
+}
+
+.carousel-butn {
+    height: 50px;
+    width: 165px;
+    font-family: Lato-Bold;
+    font-size: 15px;
+    border: 0;
+    outline: 0;
+    background-color: #4272d7;
+    color: #fff;
+}
+    
+}
+
+@media only screen and (max-width: 767px) and (min-width:576px)
+{
+    
+    
+}
+
+@media only screen and (max-width: 575px)
+{
+    
+    
+}
